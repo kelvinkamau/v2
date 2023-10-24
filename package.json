@@ -10,8 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "@nuscout/eslint-config": "^0.2.1",
-    "browser-sync": "^2.23.6",
-    "gulp": "^3.9.1",
+    "browser-sync": "^2.29.3",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^5.0.0",
     "gulp-clean-css": "3.9.0",
     "gulp-eslint": "4.0.2",
